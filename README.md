@@ -2,7 +2,7 @@
 - I’m interested in Hw and SW tools (especially Altium designer and MPLAB)
 - I’m also learning emerging AI and deep learning technologies for innovative applications.
 - I’m interested and looking to collaborate on related activities
-- you can reach by e-mail:animut.meseret@yahoo.com
+
 
 <!---
 animutmeseret/animutmeseret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
